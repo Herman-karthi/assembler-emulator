@@ -1,0 +1,5 @@
+Invalid mnemonic at line: 2
+Missing operand at line: 4
+start label does not exist at line: 5
+Invalid operand at line: 8
+Warning: label "step" not used

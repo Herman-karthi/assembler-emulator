@@ -1,0 +1,10 @@
+Label already used at line: 4
+Label is empty or starts with a character other than an alphabet and underscore at line: 10
+nonesuch label does not exist at line: 5
+Invalid operand format at line: 6
+Missing operand at line: 7
+Invalid or extra operand at line: 8
+Too many operands at line: 9
+Invalid mnemonic at line: 11
+Invalid mnemonic at line: 12
+Warning: label "label" not used
